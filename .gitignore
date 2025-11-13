@@ -1,0 +1,29 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build
+dist/
+build/
+
+# Env
+.env
+.env.* 
+.env.local
+
+# Database
+*.sqlite
+*.db
+
+# Test / coverage
+coverage/
+jest-e2e.json
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Misc
+*.log
